@@ -1,3 +1,6 @@
+<img src="./assets/openpeacetechhub-logo.png" alt="Open Knowledge Foundation Logo" width="100"/>
+<img src="./assets/okfn-logo.jpeg" alt="Open Knowledge Foundation Logo" width="200"/>
+
 # Draft: Policy Driver Document for Data Accessibility and User Friendliness in Peacebuilding
 
 ## Introduction
